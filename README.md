@@ -1,1 +1,1 @@
-# COVID-19-Prediction-from-X-Ray-Pictures
+In this workshop, a normal, covid-free pneumonia and covid-19 detection study will be carried out from chest X-ray pictures. For prediction, Convolutional Neural Networks will be created and trained. The pictures used were collected from many data sources. The summary of data sources can be accessed at https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md. For this workshop, the pictures were scaled down and the training and test sets were modified somewhat to maintain class proportions.
